@@ -1,11 +1,4 @@
-/*
- * Class: CS 111B OBjected-Oriented Programming Methodologies in Java
- * Description: Driver class for PlayerList and PlayersTwoArrays.
- * Due date: 10/12/2015
- * File name: ScoresManagementSystem.java
- * Assignment #5
- * Programmed by John Ayson.
- */
+
 import java.util.Scanner;
 
 public class ScoreManagementSystem

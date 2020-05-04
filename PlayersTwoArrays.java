@@ -1,12 +1,4 @@
-/*
- * Class: CS 111B OBjected-Oriented Programming Methodologies in Java
- * Description: Stores and edits players with their appropriate scores
- * in an array[].
- * Due date: 10/12/2015
- * File name: PlayersTwoArrays.java
- * Assignment #5
- * Programmed by John Ayson.
- */
+
 
 import java.util.Scanner;
 

@@ -1,11 +1,4 @@
-/*
- * Class: CS 111B OBjected-Oriented Programming Methodologies in Java
- * Description: Stores players with their appropriate scores and names.
- * Due date: 10/12/2015
- * File name: Player.java
- * Assignment #5
- * Programmed by John Ayson.
- */
+
 
 public class Player
 {
